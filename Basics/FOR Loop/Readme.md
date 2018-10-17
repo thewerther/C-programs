@@ -22,3 +22,11 @@ Next, the condition is evaluated. If it is true, the body of the loop is execute
 After the body of the for loop executes, the flow of control jumps back up to the increment statement. This statement can be left blank, as long as a semicolon appears after the condition.
 
 The condition is now evaluated again. If it is true, the loop executes and the process repeats itself (body of loop, then increment step, and then again condition). After the condition becomes false, the for loop terminates.
+
+## Flow Diagram :
+
+![cpp_for_loop](https://user-images.githubusercontent.com/35162705/47102141-89c34c00-d259-11e8-98f6-f79748b455f1.jpg)
+
+## Examples:
+
+**Cheers :beers:**
