@@ -1,4 +1,4 @@
-# FOR LOOP:
+## FOR LOOP :
 
 A for loop is a repetition control structure that allows you to efficiently write a loop that needs to execute a specific number of times.
 
