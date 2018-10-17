@@ -27,7 +27,7 @@ The condition is now evaluated again. If it is true, the loop executes and the p
 
 ![cpp_for_loop](https://user-images.githubusercontent.com/35162705/47102141-89c34c00-d259-11e8-98f6-f79748b455f1.jpg)
 
-## Examples:
+## Examples :
 
 _will be added later_
 
