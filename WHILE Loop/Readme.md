@@ -5,7 +5,7 @@ A while loop statement repeatedly executes a target statement as long as a given
 ## Syntax :
 
 The syntax of a while loop in C++ is −
-````
+````C++
 while(condition) 
 {
    statement(s);

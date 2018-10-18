@@ -6,7 +6,7 @@ A for loop is a repetition control structure that allows you to efficiently writ
 
 The syntax of a for loop in C++ is −
 
-````
+````C++
 for (initialisation;condition;update expression)
 {
    statement(s);
