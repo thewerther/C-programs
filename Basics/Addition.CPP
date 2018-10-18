@@ -11,5 +11,6 @@ cin>>b;
 sum=a+b;
 cout<<" The sum of the given values is :";
 cout<<sum;
+getch();
 return 0;
 }
