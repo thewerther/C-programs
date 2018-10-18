@@ -12,6 +12,7 @@ cin>>b;
 mul=a*b;
 cout<<" The mulitiplied number is = ";
 cout<<mul;
+getch();
 return 0;
 }
 // You can add many number values to do that you have to do a change. i.e, give more values in 6th line (Eg: int a,b,c,d,e,.....,mul;)//
