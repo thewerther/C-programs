@@ -11,7 +11,7 @@ This repo contains c++ programs from beginner level to expert level
 - ``Alt + X`` = Quit
 - ``Ctrl + F9`` = Compile
 - ``Alt + F5`` = To have a look of output
-
+- ``Ctrl+F2`` = Program reset
 
 ### Author - M.Anantha Vijay
 
